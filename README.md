@@ -1,4 +1,3 @@
-````md
 # ESP32 Greenhouse Sensor Monitoring Dashboard
 
 A production-grade IoT monitoring and optimization platform for smart agricultural greenhouses. This repository hosts a dual-sensor telemetry framework powered by an ESP32 edge deployment paired with a containerized ThingsBoard data orchestrator. It couples real-time environmental processing loops with independent historical analytical overlays.
